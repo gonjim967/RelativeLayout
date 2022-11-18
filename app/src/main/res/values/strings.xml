@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string-array name="EstadoCivil">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Viudo</item>
+        <item>Divorciado</item>
+    </string-array>
+
+    <string-array name="Cargo">
+        <item>Ventas</item>
+        <item>Informática</item>
+        <item>Jardinería</item>
+    </string-array>
+</resources>
